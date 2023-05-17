@@ -4,8 +4,8 @@
 
 ##### CURRENTLY
 
-- 🤠 Working on a Project called Raqamli Avlod (Digital generation V-2);
-- 🥭 Planing to work on AnorBank;
+- 🤠 Working on a Blog api;
+- 🏮 Working at Anorbank;
 
 ##### BIO
 
