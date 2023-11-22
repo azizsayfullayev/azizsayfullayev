@@ -4,7 +4,7 @@
 
 ##### CURRENTLY
 
-- 🤠 Working on a Blog api;
+- 🤠 Working on a Telegram Webhook;
 - 🏮 Working at Anorbank;
 
 ##### BIO
